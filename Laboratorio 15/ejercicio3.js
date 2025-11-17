@@ -1,0 +1,1 @@
+console.log(document.getElementById("primerh2").textContent);
