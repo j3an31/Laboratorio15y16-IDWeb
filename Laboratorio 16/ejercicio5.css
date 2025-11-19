@@ -1,0 +1,11 @@
+/* Estilo para modo claro */
+body {
+    background-color: white;
+    color: black;
+}
+
+/* Estilo para modo oscuro */
+.oscuro {
+    background-color: black;
+    color: white;
+}
