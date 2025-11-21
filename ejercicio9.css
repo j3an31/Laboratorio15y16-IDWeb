@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+#imagenPrincipal img {
+    width: 400px;
+    height: auto;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+
+#miniaturas img {
+    width: 100px;
+    height: auto;
+    margin: 5px;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+
+#miniaturas img:hover {
+    border: 4px solid greenyellow;
+}

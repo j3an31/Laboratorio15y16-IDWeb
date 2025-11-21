@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+.oculto {
+    display: none;
+}
+
+#btnMenos:hover {
+    background-color: greenyellow;
+}
+
+#btnMas:hover {
+    background-color: greenyellow;
+}
