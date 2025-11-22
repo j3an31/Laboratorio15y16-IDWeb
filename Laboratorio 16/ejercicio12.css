@@ -1,0 +1,28 @@
+* {
+    background-color: aquamarine;
+}
+
+#cuadrado {
+    width: 100px;
+    height: 100px;
+    background-color: steelblue;
+    position: relative;
+    transition: transform 1s linear;
+}
+
+.mover {
+    animation: desplazamiento 2s forwards;
+}
+
+@keyframes desplazamiento {
+    from { transform: translateX(0); }
+    to { transform: translateX(150px); }
+}
+
+button {
+    margin-top: 15px;
+    margin-right: 10px;
+    padding: 8px 15px;
+    cursor: pointer;
+    background-color: chartreuse;
+}

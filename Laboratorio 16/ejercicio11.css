@@ -1,0 +1,15 @@
+* {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+li {
+    padding: 5px;
+    background: #f0f0f0;
+    margin: 4px auto;
+    list-style: none;
+}
+
+li:hover {
+    background: #dddddd;
+}
